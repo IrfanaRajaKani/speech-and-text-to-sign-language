@@ -79,7 +79,20 @@ git push origin feature/YourFeatureName
   
 # License
 This project is licensed under the MIT License.
+
 See the LICENSE file for more details.
+
+# Acknowledgments
+sign and text to speech data sourced  via Kaggle.
+
+## Libraries and Technologies Used
+- Django (Web Framework)
+- SpeechRecognition (Speech to Text Conversion)
+- pydub (Audio File Processing)
+- TensorFlow / Keras (Deep Learning Models)
+- Pillow (Image Handling)
+- Numpy, Pandas (Data Processing)
+- nltk or spaCy (Text Preprocessing)
 
 # Contact Information
 For any questions, suggestions, or support:
