@@ -18,7 +18,7 @@ To set up the project on your local machine, follow these steps:
 
 ### Clone the Repository:
 
-git clone https://github.com/YourGitHubUsername/speech-and-text-to-sign-language.git
+git clone [https://github.com/IrfanaRajaKani/speech-and-text-to-sign-language.git
 
 cd speech-and-text-to-sign-language
 
